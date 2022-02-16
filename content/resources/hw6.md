@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Problems #6'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s66-the-art-of-counting-spring-2003/9cc3f09ba3dde138af8f3b58505cb881_hw6.pdf
+file: /media/courses/18-s66-the-art-of-counting-spring-2003/9cc3f09ba3dde138af8f3b58505cb881_hw6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw6.pdf
 uid: 9cc3f09b-a3dd-e138-af8f-3b58505cb881
