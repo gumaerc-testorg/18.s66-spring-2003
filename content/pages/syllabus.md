@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, format, and textbook.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3534372e-9538-f695-7084-d9779c7db095
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1 hour / session
 Course Description
 ------------------
 
-The subject of enumerative combinatorics deals with counting the number of elements of a finite set. For instance, the number of ways to write a positive integer n as a sum of positive integers, taking order into account, is _2n-1_. We will be concerned primarily with _bijective proofs_, i.e., showing that two sets have the same number of elements by exhibiting a bijection (one-to-one correspondence) between them. This is a subject which requires little mathematical background to reach the frontiers of current research. Students will therefore have the opportunity to do original research.
+The subject of enumerative combinatorics deals with counting the number of elements of a finite set. For instance, the number of ways to write a positive integer n as a sum of positive integers, taking order into account, is _2{{< sup "n-1" >}}_. We will be concerned primarily with _bijective proofs_, i.e., showing that two sets have the same number of elements by exhibiting a bijection (one-to-one correspondence) between them. This is a subject which requires little mathematical background to reach the frontiers of current research. Students will therefore have the opportunity to do original research.
 
 Format
 ------

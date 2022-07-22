@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of problems assigned for each session
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: cdb3680a-b6b3-8504-5e0c-df9bc9fa4636
 ---
