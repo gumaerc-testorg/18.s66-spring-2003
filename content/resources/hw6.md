@@ -5,6 +5,7 @@ file: /courses/18-s66-the-art-of-counting-spring-2003/9cc3f09ba3dde138af8f3b5850
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6.pdf
 uid: 9cc3f09b-a3dd-e138-af8f-3b58505cb881
 ---
 Problems #6
-
