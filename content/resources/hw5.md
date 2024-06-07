@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Problems #5'
 file: /courses/18-s66-the-art-of-counting-spring-2003/a4023bc9512c0e13b484d0c334378fab_hw5.pdf
+file_size: 84422
 file_type: application/pdf
 learning_resource_types:
 - Assignments
