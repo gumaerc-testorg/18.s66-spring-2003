@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problems #3a'
-file: /ol-ocw-studio-app/courses/18-s66-the-art-of-counting-spring-2003/1440215041cde10f7e897cd5824c823c_hw3a.pdf
+file: /courses/18-s66-the-art-of-counting-spring-2003/1440215041cde10f7e897cd5824c823c_hw3a.pdf
 file_size: 53898
 file_type: application/pdf
 learning_resource_types:
