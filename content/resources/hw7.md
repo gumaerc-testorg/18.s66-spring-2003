@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problems #7'
-file: /courses/18-s66-the-art-of-counting-spring-2003/346f67ef080c67b821f97fe6dffea6c8_hw7.pdf
+file: /ol-ocw-studio-app/courses/18-s66-the-art-of-counting-spring-2003/346f67ef080c67b821f97fe6dffea6c8_hw7.pdf
 file_size: 99551
 file_type: application/pdf
 learning_resource_types:
